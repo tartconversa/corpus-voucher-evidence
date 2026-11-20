@@ -1,0 +1,33 @@
+{
+  "intake": 2,
+  "table": "receipts",
+  "records": [
+    {
+      "id": "r4",
+      "claim_item": "c3",
+      "sponsor": "sector",
+      "kind": "accept",
+      "amount": 25000,
+      "at": 95,
+      "ref": "intake2"
+    },
+    {
+      "id": "r5",
+      "claim_item": "c4",
+      "sponsor": "sector",
+      "kind": "accept",
+      "amount": 12000,
+      "at": 98,
+      "ref": "intake2"
+    },
+    {
+      "id": "r6",
+      "claim_item": "c4",
+      "sponsor": "sector",
+      "kind": "reject",
+      "amount": 3000,
+      "at": 99,
+      "ref": "denied4"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "intake": 4,
+  "table": "claims",
+  "records": [
+    {
+      "id": "c8",
+      "claim": "fresh",
+      "sponsor": "sector",
+      "cost": "cost-a",
+      "delivery": "d5",
+      "checked_at": 180,
+      "amount": 10000
+    }
+  ]
+}

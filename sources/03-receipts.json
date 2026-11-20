@@ -1,0 +1,15 @@
+{
+  "intake": 3,
+  "table": "receipts",
+  "records": [
+    {
+      "id": "r7",
+      "claim_item": "c4",
+      "sponsor": "sector",
+      "kind": "pay",
+      "amount": 12000,
+      "at": 130,
+      "ref": "payment2"
+    }
+  ]
+}

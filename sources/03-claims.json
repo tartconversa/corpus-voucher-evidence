@@ -1,0 +1,15 @@
+{
+  "intake": 3,
+  "table": "claims",
+  "records": [
+    {
+      "id": "c7",
+      "claim": "retryB",
+      "sponsor": "sector",
+      "cost": "cost-a",
+      "delivery": "d5",
+      "checked_at": 150,
+      "amount": 5000
+    }
+  ]
+}

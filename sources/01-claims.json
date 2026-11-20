@@ -1,0 +1,24 @@
+{
+  "intake": 1,
+  "table": "claims",
+  "records": [
+    {
+      "id": "c1",
+      "claim": "billingA",
+      "sponsor": "local",
+      "cost": "cost-a",
+      "delivery": "d1",
+      "checked_at": 40,
+      "amount": 35000
+    },
+    {
+      "id": "c2",
+      "claim": "billingA",
+      "sponsor": "local",
+      "cost": "cost-b",
+      "delivery": "d2",
+      "checked_at": 40,
+      "amount": 15000
+    }
+  ]
+}

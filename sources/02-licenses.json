@@ -1,0 +1,20 @@
+{
+  "intake": 2,
+  "table": "licenses",
+  "records": [
+    {
+      "id": "l4",
+      "buyer": "firm1",
+      "works": [
+        "workE"
+      ],
+      "purpose": "read",
+      "span": [
+        50,
+        240
+      ],
+      "action": "grant",
+      "replaces": null
+    }
+  ]
+}

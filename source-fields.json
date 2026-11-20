@@ -1,0 +1,67 @@
+{
+  "purchases": {
+    "id": "text",
+    "buyer": "text",
+    "sku": "text",
+    "billed": "int",
+    "required_group": "text"
+  },
+  "deliveries": {
+    "id": "text",
+    "purchase": "text",
+    "release": "text",
+    "work": "text",
+    "digest": "text",
+    "group": "text",
+    "equivalent": "text"
+  },
+  "detail": {
+    "id": "text",
+    "purchase": "text",
+    "works": "items",
+    "amount": "int",
+    "purpose": "text",
+    "completeness": "text"
+  },
+  "licenses": {
+    "id": "text",
+    "buyer": "text",
+    "works": "items",
+    "purpose": "text",
+    "span": "range",
+    "action": "text",
+    "replaces": "text"
+  },
+  "funding": {
+    "id": "text",
+    "cost": "text",
+    "sponsor_a": "text",
+    "sponsor_b": "text",
+    "cap_a": "int",
+    "cap_b": "int",
+    "combined": "int"
+  },
+  "claims": {
+    "id": "text",
+    "claim": "text",
+    "sponsor": "text",
+    "cost": "text",
+    "delivery": "text",
+    "checked_at": "int",
+    "amount": "int"
+  },
+  "receipts": {
+    "id": "text",
+    "claim_item": "text",
+    "sponsor": "text",
+    "kind": "text",
+    "amount": "int",
+    "at": "int",
+    "ref": "text"
+  },
+  "periods": {
+    "id": "text",
+    "span": "range",
+    "state": "text"
+  }
+}

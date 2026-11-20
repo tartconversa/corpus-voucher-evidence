@@ -1,0 +1,56 @@
+{
+  "intake": 1,
+  "table": "detail",
+  "records": [
+    {
+      "id": "cost-a",
+      "purchase": "po1",
+      "works": [
+        "workA"
+      ],
+      "amount": 60000,
+      "purpose": "learn",
+      "completeness": "bundle1"
+    },
+    {
+      "id": "cost-b",
+      "purchase": "po1",
+      "works": [
+        "workB"
+      ],
+      "amount": 30000,
+      "purpose": "learn",
+      "completeness": "bundle1"
+    },
+    {
+      "id": "cost-rest",
+      "purchase": "po1",
+      "works": [
+        "workE"
+      ],
+      "amount": 30000,
+      "purpose": "learn",
+      "completeness": "partial"
+    },
+    {
+      "id": "cost-c",
+      "purchase": "po2",
+      "works": [
+        "workC"
+      ],
+      "amount": 40000,
+      "purpose": "training",
+      "completeness": "independent"
+    },
+    {
+      "id": "cost-d",
+      "purchase": "po3",
+      "works": [
+        "workD"
+      ],
+      "amount": 70000,
+      "purpose": "test",
+      "completeness": "independent"
+    }
+  ]
+}

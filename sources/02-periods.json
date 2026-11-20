@@ -1,0 +1,14 @@
+{
+  "intake": 2,
+  "table": "periods",
+  "records": [
+    {
+      "id": "spring",
+      "span": [
+        90,
+        160
+      ],
+      "state": "sealed"
+    }
+  ]
+}

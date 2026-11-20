@@ -1,0 +1,24 @@
+{
+  "intake": 2,
+  "table": "deliveries",
+  "records": [
+    {
+      "id": "d5",
+      "purchase": "po1",
+      "release": "pkg-2",
+      "work": "workA",
+      "digest": "hh5",
+      "group": "bundle1",
+      "equivalent": "d1"
+    },
+    {
+      "id": "d6",
+      "purchase": "po1",
+      "release": "pkg-2",
+      "work": "workE",
+      "digest": "hh6",
+      "group": "extra",
+      "equivalent": null
+    }
+  ]
+}

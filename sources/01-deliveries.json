@@ -1,0 +1,42 @@
+{
+  "intake": 1,
+  "table": "deliveries",
+  "records": [
+    {
+      "id": "d1",
+      "purchase": "po1",
+      "release": "pkg-1",
+      "work": "workA",
+      "digest": "hh1",
+      "group": "bundle1",
+      "equivalent": null
+    },
+    {
+      "id": "d2",
+      "purchase": "po1",
+      "release": "pkg-1",
+      "work": "workB",
+      "digest": "hh2",
+      "group": "bundle1",
+      "equivalent": null
+    },
+    {
+      "id": "d3",
+      "purchase": "po2",
+      "release": "pkg-x",
+      "work": "workC",
+      "digest": "hh3",
+      "group": "load1",
+      "equivalent": null
+    },
+    {
+      "id": "d4",
+      "purchase": "po3",
+      "release": "pkg-z",
+      "work": "workD",
+      "digest": "hh4",
+      "group": "load2",
+      "equivalent": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "intake": 1,
+  "table": "periods",
+  "records": [
+    {
+      "id": "winter",
+      "span": [
+        0,
+        90
+      ],
+      "state": "sealed"
+    }
+  ]
+}

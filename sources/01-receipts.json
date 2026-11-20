@@ -1,0 +1,33 @@
+{
+  "intake": 1,
+  "table": "receipts",
+  "records": [
+    {
+      "id": "r1",
+      "claim_item": "c1",
+      "sponsor": "local",
+      "kind": "accept",
+      "amount": 35000,
+      "at": 41,
+      "ref": "intake1"
+    },
+    {
+      "id": "r2",
+      "claim_item": "c2",
+      "sponsor": "local",
+      "kind": "accept",
+      "amount": 15000,
+      "at": 41,
+      "ref": "intake1"
+    },
+    {
+      "id": "r3",
+      "claim_item": "c1",
+      "sponsor": "local",
+      "kind": "pay",
+      "amount": 35000,
+      "at": 48,
+      "ref": "payment1"
+    }
+  ]
+}

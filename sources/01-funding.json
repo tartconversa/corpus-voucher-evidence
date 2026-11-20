@@ -1,0 +1,24 @@
+{
+  "intake": 1,
+  "table": "funding",
+  "records": [
+    {
+      "id": "jointA",
+      "cost": "cost-a",
+      "sponsor_a": "local",
+      "sponsor_b": "sector",
+      "cap_a": 35000,
+      "cap_b": 30000,
+      "combined": 60000
+    },
+    {
+      "id": "jointB",
+      "cost": "cost-b",
+      "sponsor_a": "local",
+      "sponsor_b": "sector",
+      "cap_a": 18000,
+      "cap_b": 15000,
+      "combined": 30000
+    }
+  ]
+}

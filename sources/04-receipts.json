@@ -1,0 +1,15 @@
+{
+  "intake": 4,
+  "table": "receipts",
+  "records": [
+    {
+      "id": "r8",
+      "claim_item": "c1",
+      "sponsor": "local",
+      "kind": "reverse",
+      "amount": 18000,
+      "at": 172,
+      "ref": "r3"
+    }
+  ]
+}

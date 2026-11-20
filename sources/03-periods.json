@@ -1,0 +1,14 @@
+{
+  "intake": 3,
+  "table": "periods",
+  "records": [
+    {
+      "id": "summer",
+      "span": [
+        160,
+        240
+      ],
+      "state": "open"
+    }
+  ]
+}

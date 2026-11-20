@@ -1,0 +1,49 @@
+{
+  "intake": 1,
+  "table": "licenses",
+  "records": [
+    {
+      "id": "l1",
+      "buyer": "firm1",
+      "works": [
+        "workA",
+        "workB"
+      ],
+      "purpose": "learn",
+      "span": [
+        1,
+        240
+      ],
+      "action": "grant",
+      "replaces": null
+    },
+    {
+      "id": "l2",
+      "buyer": "firm1",
+      "works": [
+        "workC"
+      ],
+      "purpose": "training",
+      "span": [
+        1,
+        240
+      ],
+      "action": "grant",
+      "replaces": null
+    },
+    {
+      "id": "l3",
+      "buyer": "firm2",
+      "works": [
+        "workD"
+      ],
+      "purpose": "test",
+      "span": [
+        1,
+        240
+      ],
+      "action": "grant",
+      "replaces": null
+    }
+  ]
+}

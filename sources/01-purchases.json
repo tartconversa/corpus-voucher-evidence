@@ -1,0 +1,27 @@
+{
+  "intake": 1,
+  "table": "purchases",
+  "records": [
+    {
+      "id": "po1",
+      "buyer": "firm1",
+      "sku": "machinery",
+      "billed": 120000,
+      "required_group": "bundle1"
+    },
+    {
+      "id": "po2",
+      "buyer": "firm1",
+      "sku": "bearings",
+      "billed": 40000,
+      "required_group": "independent"
+    },
+    {
+      "id": "po3",
+      "buyer": "firm2",
+      "sku": "welding",
+      "billed": 70000,
+      "required_group": "independent"
+    }
+  ]
+}

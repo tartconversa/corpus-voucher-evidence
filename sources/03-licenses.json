@@ -1,0 +1,34 @@
+{
+  "intake": 3,
+  "table": "licenses",
+  "records": [
+    {
+      "id": "l5",
+      "buyer": "firm1",
+      "works": [
+        "workA"
+      ],
+      "purpose": "learn",
+      "span": [
+        125,
+        240
+      ],
+      "action": "restrict",
+      "replaces": "l1"
+    },
+    {
+      "id": "l6",
+      "buyer": "firm1",
+      "works": [
+        "workB"
+      ],
+      "purpose": "learn",
+      "span": [
+        125,
+        240
+      ],
+      "action": "grant",
+      "replaces": null
+    }
+  ]
+}

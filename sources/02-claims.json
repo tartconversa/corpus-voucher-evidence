@@ -1,0 +1,42 @@
+{
+  "intake": 2,
+  "table": "claims",
+  "records": [
+    {
+      "id": "c3",
+      "claim": "billingB",
+      "sponsor": "sector",
+      "cost": "cost-a",
+      "delivery": "d5",
+      "checked_at": 92,
+      "amount": 25000
+    },
+    {
+      "id": "c4",
+      "claim": "billingB",
+      "sponsor": "sector",
+      "cost": "cost-b",
+      "delivery": "d2",
+      "checked_at": 92,
+      "amount": 15000
+    },
+    {
+      "id": "c5",
+      "claim": "retryA",
+      "sponsor": "local",
+      "cost": "cost-a",
+      "delivery": "d5",
+      "checked_at": 95,
+      "amount": 35000
+    },
+    {
+      "id": "c6",
+      "claim": "immature",
+      "sponsor": "local",
+      "cost": "cost-rest",
+      "delivery": "d6",
+      "checked_at": 95,
+      "amount": 30000
+    }
+  ]
+}
